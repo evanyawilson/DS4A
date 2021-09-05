@@ -18,12 +18,10 @@ We expected to see an overall reduction in pollution; however, what was still un
 ----------
 
 ## File Directory
-- `City_Environment`: Contains all of the packages installed in my environment in which the project was run (please note, a number of them are base packages).
+- `Superfund_Dasboard`: Contains all of the packages installed in my environment in which the project was run (please note, a number of them are base packages).
 - `Superfund_Report.pdf`: A summary report of the project.
 - `City_Recommender_System.ipynb`: A cleaned and consolidated notebook of all my work for the project.
-- `City_Recommender_Video`: A breif summary of my project through video.
-- Please feel free to interact with the project's Tableau dashboard here: https://public.tableau.com/app/profile/leonardo.dulanto.falcon/viz/Group144-DS4ADashboard/SuperfundSitesAcrosstheU_S_
-
+- `Superfund_Presentation`: A breif summary of my project through video.
 
 ----------
 
