@@ -18,7 +18,7 @@ We expected to see an overall reduction in pollution; however, what was still un
 ----------
 
 ## File Directory
-- `Superfund_Dasboard`: An interactive tool that allows you to explore pollution and economic factors by county & state.
+- `Superfund_Dasboard`: An interactive tool that allows you to explore pollution and economic factors by U.S. county & state.
 - `Superfund_Report.pdf`: A summary report of the project.
 - `Superfund_Notebook.ipynb`: A cleaned and consolidated notebook of all my work for the project.
 - `Superfund_Presentation`: A breif summary of my project through video.
