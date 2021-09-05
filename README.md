@@ -1,26 +1,19 @@
 # Are There Economic Benefits to Superfund Site Cleanup? 2021
 
-Living through the pandemic, it has become quite evident that we can easily work from home, and no longer need to go into the office. Many companies are now opting for completely remote work, or a hybrid model of some sort. By now, most of us have probably considered the idea of working from a new place, some even long term.
+For this project, we wanted to find out how has the 1980 establishment of the Superfund affected pollution in the surrounding areas? What have been the economic impacts for surrounding communities? 
 
-I would like this project to encourage people to take advantage of moving to a new city, and allow them to consider a new place to live feasibly, based on their current living expenditures and environment.
+The potential negative economic ramifications not only affect individuals directly impacted, but possibly generations to come. Furthermore, some of these ramifications may also hinder equal opportunity for health, wealth, and the pursuit of happiness since it affects disproportionately marginalized communities. 
 
-The system will take the user's current city as input, and recommend another city that has similar attributes to their current. The web application through Streamlit hosts the recommender system.
-
-Please feel free to play with the project dashboard here: https://public.tableau.com/app/profile/leonardo.dulanto.falcon/viz/Group144-DS4ADashboard/SuperfundSitesAcrosstheU_S_
-
-----------
-
-## Data Access
-To access the data, you will need an API key.
+We expected to see an overall reduction in pollution; however, what was still unclear was how those reductions have affected some economic factors. We focused specifically on outcome variables, such as home ownership, and unemployment. 
 
 ----------
 
 ## Data Description
-The data used for this project came from numbeo.com, an organization that provides cost of living and quality of life information on different cities across the world. Most of the features are indexed based on NYC standards. NYC being 100. So a value of 120 would be 20% more than NYC cost, and a value of 80 would be 20% less than NYC cost. Currency exchange rates have been accounted for.
-
-Current (2021) information was used for this project, pulled from their Cost of Living, Qulaity of Life and Property Prices data. Please see the 'City_Recommender_System.ipynb' notebook which describes the variables in each dataset.
-
-Please visit their website for more information on their data collection process: https://www.numbeo.com/common/motivation_and_methodology.jsp
+- **Superfund:** Data comes directly from the U.S. Environmental Protection Agency https://www.epa.gov/superfund/superfund-data-and-reports
+- **Air Quality:** Data comes directly from monitoring locations from across the U.S. and is housed by the U.S. Environmental Protection Agency https://www.epa.gov/outdoor-air-quality-data
+- **Water Quality:** Data comes directly from monitoring locations and are housed by the U.S. Environmental Protection Agency and U.S. Geological Services https://www.waterqualitydata.us/wqp_description/
+- **House Price Index:** The FHFA House Price Index (FHFA HPI®) is the nation’s only collection of public, freely available house price indexes that measure changes in single-family home values https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx
+- **Unemployment Rate:** Data comes from the U.S. Bureau of Labor Statistics
 
 ----------
 
@@ -29,6 +22,8 @@ Please visit their website for more information on their data collection process
 - `City_Recommender_Report.pdf`: A summary report of my project.
 - `City_Recommender_System.ipynb`: A cleaned and consolidated notebook of all my work for the project.
 - `City_Recommender_Video`: A breif summary of my project through video.
+- Please feel free to interact with the project's Tableau dashboard here: https://public.tableau.com/app/profile/leonardo.dulanto.falcon/viz/Group144-DS4ADashboard/SuperfundSitesAcrosstheU_S_
+
 
 ----------
 
