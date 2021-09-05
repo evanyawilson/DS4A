@@ -9,11 +9,11 @@ We expected to see an overall reduction in pollution; however, what was still un
 ----------
 
 ## Data Description
-- **Superfund:** Data comes directly from the U.S. Environmental Protection Agency https://www.epa.gov/superfund/superfund-data-and-reports
-- **Air Quality:** Data comes directly from monitoring locations from across the U.S. and is housed by the U.S. Environmental Protection Agency https://www.epa.gov/outdoor-air-quality-data
-- **Water Quality:** Data comes directly from monitoring locations and are housed by the U.S. Environmental Protection Agency and U.S. Geological Services https://www.waterqualitydata.us/wqp_description/
+- **Superfund:** Data on site locations and status comes directly from the U.S. Environmental Protection Agency https://www.epa.gov/superfund/superfund-data-and-reports
+- **Air Quality:** Data on site locations, status and violations comes directly from monitoring locations from across the U.S. and is housed by the U.S. Environmental Protection Agency https://www.epa.gov/outdoor-air-quality-data
+- **Water Quality:** Data on site locations, status and violations comes directly from monitoring locations and are housed by the U.S. Environmental Protection Agency and U.S. Geological Services https://www.waterqualitydata.us/wqp_description/
 - **House Price Index:** The FHFA House Price Index (FHFA HPI®) is the nation’s only collection of public, freely available house price indexes that measure changes in single-family home values https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx
-- **Unemployment Rate:** Data comes from the U.S. Bureau of Labor Statistics https://www.bls.gov/lau/
+- **Unemployment Rate:** Data on unemployment statistics comes from the U.S. Bureau of Labor Statistics https://www.bls.gov/lau/
 
 ----------
 
