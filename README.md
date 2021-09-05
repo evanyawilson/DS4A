@@ -18,9 +18,9 @@ We expected to see an overall reduction in pollution; however, what was still un
 ----------
 
 ## File Directory
-- `Superfund_Dasboard`: Contains all of the packages installed in my environment in which the project was run (please note, a number of them are base packages).
+- `Superfund_Dasboard`: An interactive tool that allows you to explore pollution and economic factors by county & state.
 - `Superfund_Report.pdf`: A summary report of the project.
-- `City_Recommender_System.ipynb`: A cleaned and consolidated notebook of all my work for the project.
+- `Superfund_Notebook.ipynb`: A cleaned and consolidated notebook of all my work for the project.
 - `Superfund_Presentation`: A breif summary of my project through video.
 
 ----------
